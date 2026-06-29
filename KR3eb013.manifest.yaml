@@ -1,0 +1,447 @@
+canonical_identifier: bkk:krp/KR3eb013/v1
+canonical_location: https://kanripo.org/bkk/KR3eb013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈確
+  identifiers:
+    krp: KR3eb013
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb013.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb013_000.yaml, hash: 'sha256:2939791cfa7e0d8644f61f24e22cd9cc37fa5be58912cf48de8c7768ed42e3cf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb013_000.markers.yaml, hash: 'sha256:7501582a56f9947f63f37d07576ac8fe6e1db3f2292913611654ab2685f37c20'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 335
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d41.h1s1
+    span:
+    - front
+    - 335
+    - 1183
+  label: 附送戴原禮還浦陽序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d42.h1s1
+    span:
+    - front
+    - 1183
+    - 1783
+  label: 贈醫師葛某序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d43.h1s1
+    span:
+    - front
+    - 1783
+    - 2903
+  label: 贈醫師賈某序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 154
+  label: 脈原
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d4.h1s1
+    span:
+    - body
+    - 154
+    - 563
+  label: 脈名
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d5.h1s1
+    span:
+    - body
+    - 563
+    - 663
+  label: 脈類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d6.h1s1
+    span:
+    - body
+    - 663
+    - 2603
+  label: 寸關尺臟腑部位
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d7.h1s1
+    span:
+    - body
+    - 2603
+    - 3250
+  label: 診法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d8.h1s1
+    span:
+    - body
+    - 3250
+    - 3969
+  label: 平脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d9.h1s1
+    span:
+    - body
+    - 3969
+    - 4490
+  label: 病脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d10.h1s1
+    span:
+    - body
+    - 4490
+    - 4769
+  label: 主諸病脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d11.h1s1
+    span:
+    - body
+    - 4769
+    - 5184
+  label: 可治病脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d12.h1s1
+    span:
+    - body
+    - 5184
+    - 5572
+  label: 諸可治病脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d13.h1s1
+    span:
+    - body
+    - 5572
+    - 6521
+  label: 死脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d14.h1s1
+    span:
+    - body
+    - 6521
+    - 7008
+  label: 諸病死脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d15.h1s1
+    span:
+    - body
+    - 7008
+    - 7112
+  label: 奇經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d16.h1s1
+    span:
+    - body
+    - 7112
+    - 7349
+  label: 內經切脈之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d17.h1s1
+    span:
+    - body
+    - 7349
+    - 7839
+  label: 浮
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d18.h1s1
+    span:
+    - body
+    - 7839
+    - 8136
+  label: 洪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d19.h1s1
+    span:
+    - body
+    - 8136
+    - 8453
+  label: 虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d20.h1s1
+    span:
+    - body
+    - 8453
+    - 8693
+  label: 芤革
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d21.h1s1
+    span:
+    - body
+    - 8693
+    - 8877
+  label: 散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d22.h1s1
+    span:
+    - body
+    - 8877
+    - 9056
+  label: 微
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d23.h1s1
+    span:
+    - body
+    - 9056
+    - 9288
+  label: 沉牢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d24.h1s1
+    span:
+    - body
+    - 9288
+    - 9476
+  label: 伏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d25.h1s1
+    span:
+    - body
+    - 9476
+    - 9812
+  label: 實
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d26.h1s1
+    span:
+    - body
+    - 9812
+    - 10032
+  label: 遲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d27.h1s1
+    span:
+    - body
+    - 10032
+    - 10333
+  label: 緩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d28.h1s1
+    span:
+    - body
+    - 10333
+    - 10536
+  label: 數
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d29.h1s1
+    span:
+    - body
+    - 10536
+    - 10673
+  label: 結
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d30.h1s1
+    span:
+    - body
+    - 10673
+    - 10716
+  label: 促
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d31.h1s1
+    span:
+    - body
+    - 10716
+    - 11296
+  label: 代
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d32.h1s1
+    span:
+    - body
+    - 11296
+    - 11595
+  label: 弦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d33.h1s1
+    span:
+    - body
+    - 11595
+    - 11792
+  label: 緊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d34.h1s1
+    span:
+    - body
+    - 11792
+    - 12051
+  label: 長
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d35.h1s1
+    span:
+    - body
+    - 12051
+    - 12119
+  label: 短
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d36.h1s1
+    span:
+    - body
+    - 12119
+    - 12370
+  label: 細
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d37.h1s1
+    span:
+    - body
+    - 12370
+    - 12613
+  label: 澀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d38.h1s1
+    span:
+    - body
+    - 12613
+    - 12842
+  label: 滑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d39.h1s1
+    span:
+    - body
+    - 12842
+    - 13164
+  label: 動
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb013_jc_000-d40.h1s1
+    span:
+    - body
+    - 13164
+    - 13567
+  label: 胎脈
+  type: section
+  level: 1
+hash: sha256:061403df0eb10de190dbd53de54e7ae156f3989a5eef6548618d2afff497e6da
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
