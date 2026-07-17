@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb013_000.yaml, hash: 'sha256:c7ff8c0c07d1130462e52ae3fb6855eed6262d54a1bdeac768bf19648ab1edac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb013_000.markers.yaml, hash: 'sha256:412c56dbdeb3d9dcb3c887be8bccd2ef24a308291b305a45698deaed476c7822'}
+  - {seq: 0, role: markers, filename: assets/KR3eb013_000.markers.yaml, hash: 'sha256:c06e581ece9f8f06b3a9b0c68cfa3d7e16a4f473d839e643fefb33e68805e58d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -441,7 +441,7 @@ table_of_contents:
   label: 胎脈
   type: section
   level: 1
-hash: sha256:703ed712af25951ce5fd89464b476da3d6aa7f9655cbd80946c5288a4f533f10
+hash: sha256:c8c0ea95cd90f64fa7752ae74cf33d294285a7d9aaadfbf2d97caf243db82096
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
